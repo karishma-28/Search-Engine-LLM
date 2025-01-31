@@ -39,7 +39,7 @@ This project demonstrates a simple chatbot built using **LangChain** and **Strea
 
 Start the Streamlit app:
     ```bash
-    streamlit run app.py
+     streamlit run app.py
 
 **Dependencies**
 
