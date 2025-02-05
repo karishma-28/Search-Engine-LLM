@@ -35,6 +35,7 @@ This project demonstrates a simple chatbot built using **LangChain** and **Strea
    ```bash
    GROQ_API_KEY=your_groq_api_key
 
+
 **Usage**
 
 Start the Streamlit app:
